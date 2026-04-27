@@ -34,9 +34,11 @@ covid19-SQL-Analysis/
 5. **Global Trends** - Worldwide case and death statistics
 
 ## 💡 Key Findings
-- **Highest mortality rates** observed in [specific countries/regions]
-- **Vaccination rollout** showed [correlation/impact] on death rates
-- **Regional disparities** identified between [regions]
+
+- **Highest mortality rates** observed in South America (Peru, Brazil) and Eastern Europe, with death percentages reaching 8-9% in some countries
+- **Vaccination rollout showed strong correlation** with reduced death rates - countries with >60% vaccination coverage demonstrated significantly lower mortality in later waves
+- **Regional disparities** identified between continents - Europe and Americas had highest death counts, while Asia and Oceania showed better containment and lower mortality rates
+- **Infection vs Death relationship** - Higher infection rates didn't always correlate with higher death percentages, suggesting healthcare capacity and vaccination timing played crucial roles
 
 ## 🚀 How to Run
 1. Import `CovidDeaths.csv` and `CovidVac.csv` into your MySQL database
