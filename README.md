@@ -15,9 +15,13 @@ This project analyzes COVID-19 infection and mortality trends across countries a
 
 ## 📁 Project Structure
 covid19-SQL-Analysis/
+
 ├── CovidAnalysis.sql # Complete analysis queries
+
 ├── CovidDeaths.csv # Daily cases & deaths data
+
 ├── CovidVac.csv # Vaccination data
+
 └── README.md # Project documentation
 
 
